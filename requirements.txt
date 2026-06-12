@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 azure-storage-blob
+azure-functions
 python-dotenv
 python-multipart
