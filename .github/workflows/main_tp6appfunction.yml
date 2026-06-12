@@ -8,7 +8,7 @@ on:
 
 env:
   AZURE_FUNCTIONAPP_PACKAGE_PATH: '.' 
-  PYTHON_VERSION: '3.11' # On force 3.11 pour éviter les bugs de la 3.13 sur Azure
+  PYTHON_VERSION: '3.13'
 
 jobs:
   build:
